@@ -160,5 +160,10 @@ cython_debug/
 #.idea/
 
 .DS_Store
-/Datasets/*
 
+#Large files to ignore:
+Dental-Panaromic-Autoencoder.npz
+mnist_train.csv
+
+./Datasets/Lesson_03_Artificial_Neural_Network/3.04_Perceptron_Based_Classification_Model/mnist_train.csv
+./Incremental_Capstone/Capstone Session 12/Dental-Panaromic-Autoencoder.npz
