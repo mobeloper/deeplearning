@@ -168,3 +168,5 @@ cython_debug/
 Dental-Panaromic-Autoencoder.npz
 mnist_train.csv
 
+logs/
+
