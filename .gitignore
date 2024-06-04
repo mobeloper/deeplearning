@@ -170,3 +170,8 @@ mnist_train.csv
 
 logs/
 
+list_emails*
+adj_emails*
+name_emails*
+randomized_emails*
+rand_name_emails_gmail*
