@@ -175,3 +175,6 @@ adj_emails*
 name_emails*
 randomized_emails*
 rand_name_emails_gmail*
+
+*train/images/*
+*test/images/*
