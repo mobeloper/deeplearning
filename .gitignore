@@ -180,3 +180,6 @@ rand_name_emails_gmail*
 *test/images/*
 
 *data
+Notebooks/Lesson_09_Object_Detection/yolov5*
+*/yolov5/*
+*/SplittedDataset*
